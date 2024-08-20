@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Jessica Wang",
+            "title": "Alice Cooper says bandmate Johnny Depp's defamation trial was 'so blown out of proportion'",
+            "description": "\"I don’t think it was ever mentioned on the tour because nobody cared,\" he says of his Hollywood Vampires bandmate's highly-publicized 2022 trial.",
+            "url": "https://ew.com/music/alice-cooper-johnny-depp-defamation-trial-amber-heard/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C10%2C2000%2C1010&poi=%5B940%2C213%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F25%2Falice-cooper-johnny-depp-082523-1.jpg",
+            "publishedAt": "2023-08-25T21:00:28Z",
+            "content": "Johnny Depp's defamation trial didn't take center stage during his tour with Hollywood Vampires, according to bandmate Alice Cooper.\r\nIn conversation with Vulture, Cooper weighed in on his bandmate's… [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "VFX artists show that Hollywood can use AI to create, not exploit | TechCrunch",
+            "description": "Hollywood is currently paralyzed by strikes in which AI is one of many concerns, but the tech is already widely used in TV and film.",
+            "url": "https://techcrunch.com/2023/08/25/vfx-artists-show-that-hollywood-can-use-ai-to-create-not-exploit/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/ETH-zurich-pixar-smoke.jpg?resize=1200,600",
+            "publishedAt": "2023-08-25T18:51:43Z",
+            "content": "Hollywood may be embroiled in ongoing labor disputes that involve AI, but the technology infiltrated film and TV long, long ago. At SIGGRAPH in LA, algorithmic and generative tools were on display in… [+9088 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "David Ng",
+            "title": "Hollywood Celebrities Go Wild over Trump Mugshot: 'Lying Treasonous Child Abducting Rapist Sack of S**t'",
+            "description": "Hollywood celebrities erupted in orgasmic emotion late Thursday after officials in Fulton County, Georgia, released their mugshot of former President Donald Trump. While there was plenty of joy from Hollywood's hardcore Joe Biden cheerleaders, some of the cel…",
+            "url": "http://www.breitbart.com/entertainment/2023/08/25/hollywood-celebrities-go-wild-over-trump-mugshot-lying-treasonous-child-abducting-rapist-sack-of-st/",
+            "urlToImage": "https://media.breitbart.com/media/2023/08/gadWhitford-640x335.jpg",
+            "publishedAt": "2023-08-25T18:25:51Z",
+            "content": "Hollywood celebrities erupted in orgasmic emotion late Thursday after officials in Fulton County, Georgia, released their mugshot of former President Donald Trump. While there was plenty of joy from … [+5172 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Tim Baysinger",
+            "title": "Hollywood shuts down as actors join writers on strike",
+            "description": "A work stoppage by thousands of on-screen performers is expected to bring the industry to a halt.",
+            "url": "https://www.axios.com/2023/07/13/sag-aftra-wga-strike-hollywood",
+            "urlToImage": "https://images.axios.com/BsO_He3gjjKmpAfFwgqtLL3nOm8=/0x0:4000x2250/1366x768/2023/06/30/1688149702453.jpg",
+            "publishedAt": "2023-07-13T17:42:29Z",
+            "content": "SAG-AFTRA, the union that represents Hollywood actors, will strike for the first time since 1980 after failing to reach a new labor deal with the major studios.\r\nWhy it matters: The actors' strike, w… [+4148 chars]"
+        }
+    ]
+}
